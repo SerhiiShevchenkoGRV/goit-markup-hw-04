@@ -222,6 +222,7 @@ header {
   padding: 188px 0;
   max-width: 1440px;
   background-position: center;
+  margin: 0 auto;
 }
 
 .hero .container {
@@ -516,8 +517,6 @@ header {
 
 .bottom-line .container {
   display: flex;
-  flex-direction: row;
-  gap: 120px;
   align-items: baseline;
 }
 
